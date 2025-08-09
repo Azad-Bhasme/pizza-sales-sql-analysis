@@ -11,14 +11,11 @@ The dataset contains:
 - **pizza_types** – Category, name, ingredients
 
 ## 🔍 Questions Answered
-### Basic:
 1. Total number of orders placed.
 2. Total revenue generated.
 3. Highest-priced pizza.
 4. Most common pizza size ordered.
 5. Top 5 most ordered pizzas by quantity.
-
-### Intermediate:
 6. Total quantity of each pizza category ordered.
 
 ## 🛠️ Skills & Tools
